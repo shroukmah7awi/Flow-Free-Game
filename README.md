@@ -10,7 +10,7 @@ The game combines algorithmic puzzle generation with basic AI concepts to create
 
 - 🔄 Dynamic puzzle generation using DFS & Backtracking  
 - 🎯 Interactive grid-based gameplay  
-- 🌈 Multiple colored path connections  
+- 🎮 Multiple colored path connections  
 - 🚫 No overlapping or intersecting paths allowed  
 - 🧠 Automatic win detection  
 - 🔁 Reset game functionality (Press R)  
